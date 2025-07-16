@@ -30,6 +30,7 @@
     <div class="mb-3">
       <label>เพศ</label><br>
       <input type="radio" name="gender" value="หญิง"> หญิง
+      <button type="submit" class="btn btn-primary"></button>
     </div>
   </form>
 </body>
