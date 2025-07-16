@@ -35,7 +35,7 @@
       <input type="radio" name="gender" value="ชาย" required> ชาย
       <input type="radio" name="gender" value="หญิง"> หญิง
     </div>
-    <button type="submit" class="btn btn-primary"></button>
+    <button type="submit" class="btn btn-primary">ส่ง</button>
   </form>
 </body>
 </html>
